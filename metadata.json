@@ -1,0 +1,7 @@
+{
+  "name": "FRIDAY - Ultra v2",
+  "description": "A unified smart AI assistant powered by Gemini. Features intelligent input detection for chat and image generation, a secure HUD, and voice commands. Made for Jay Patel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
